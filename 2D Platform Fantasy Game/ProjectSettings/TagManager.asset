@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Background2
   layers:
   - Default
   - TransparentFX
@@ -43,6 +44,12 @@ TagManager:
     locked: 0
   - name: Terrain
     uniqueID: 3728032447
+    locked: 0
+  - name: Player
+    uniqueID: 1749435947
+    locked: 0
+  - name: House
+    uniqueID: 573016077
     locked: 0
   - name: Default
     uniqueID: 0
